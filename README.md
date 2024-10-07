@@ -1,9 +1,11 @@
 # Object Detection with YOLO
 ## Giới thiệu
-Dự án này được xây dựng trên thư viện streamlit phục vụ cho chương trình TechDay của CLB 9.5AI, giúp nhận diện đối tượng với những options như sau:
-    * Object Detection on Image
-    * Object Detection on Video
-    * Object Detection Real-time.
+Dự án này được xây dựng trên thư viện **Streamlit** phục vụ cho chương trình **TechDay** của **CLB 9.5AI**, giúp nhận diện đối tượng với những tùy chọn như sau:
+
+* **Object Detection on Image**
+* **Object Detection on Video**
+* **Object Detection Real-time**
+
 ## Cài đặt
 Để cài đặt dự án, làm theo các bước sau:
 
