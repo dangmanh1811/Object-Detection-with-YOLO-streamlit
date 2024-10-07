@@ -11,7 +11,7 @@ Dự án này được xây dựng để  [trong clb 9.5AI], giúp [mô tả đ�
 
 2. Cài đặt dependencies:
     ```bash
-    npm install
+    pip install -r requirements.txt
     ```
 
 3. Chạy ứng dụng:
