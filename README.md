@@ -6,7 +6,7 @@ This project was built on the **Streamlit** library server for Club 9.5AI's Tech
 * **Object Detection on Video**
 * **Object Detection Real-time**
 
-## Settings
+## How to run
 To use the project, follow these steps:
 
 1. Clone repo:
