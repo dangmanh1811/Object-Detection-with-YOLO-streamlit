@@ -1,25 +1,25 @@
 # Object Detection with YOLO
-## Giới thiệu
-Dự án này được xây dựng trên thư viện **Streamlit** phục vụ cho chương trình **TechDay** của **CLB 9.5AI**, giúp nhận diện đối tượng với những tùy chọn như sau:
+## Introduction
+This project was built on the **Streamlit** library server for Club 9.5AI's TechDay program, supporting object detection with the following options:
 
 * **Object Detection on Image**
 * **Object Detection on Video**
 * **Object Detection Real-time**
 
-## Cài đặt
-Để cài đặt dự án, làm theo các bước sau:
+## How to run
+To use the project, follow these steps:
 
 1. Clone repo:
     ```bash
     git clone https://github.com/dangmanh18112004/Object-Detection-with-YOLO.git
     ```
 
-2. Cài đặt dependencies:
+2. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Chạy ứng dụng:
+3. Run:
     ```bash
     streamlit run app.py
     ```
