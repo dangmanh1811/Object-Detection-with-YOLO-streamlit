@@ -23,4 +23,6 @@ To use the project, follow these steps:
     ```bash
     streamlit run app.py
     ```
-![image](https://github.com/user-attachments/assets/2380544d-ffba-486a-a2d3-faea433c5daa)
+## 🎥 Video Demo
+[Xem video demo trên Google Drive]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1IfDVvalIsrg3GnfN-2oLNxarJbhvk5N1/view?usp=sharing))
+
