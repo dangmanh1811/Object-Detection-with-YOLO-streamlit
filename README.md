@@ -23,5 +23,5 @@ To use the project, follow these steps:
     ```bash
     streamlit run app.py
     ```
-## Demo
-![Web Demo](source/DemoObjectDetectionv2.mp4)
+## 🎥 Video Demo
+👉 [Xem video demo](https://github.com/dangmanh1811/Object-Detection-with-YOLO-streamlit/blob/main/source/DemoObjectDetectionv2.mp4)
