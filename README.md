@@ -24,5 +24,5 @@ To use the project, follow these steps:
     streamlit run app.py
     ```
 ## 🎥 Video Demo
-[Xem video demo trên Google Drive]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1IfDVvalIsrg3GnfN-2oLNxarJbhvk5N1/view?usp=sharing))
+[Xem video demo trên Google Drive](https://drive.google.com/file/d/1IfDVvalIsrg3GnfN-2oLNxarJbhvk5N1/view?usp=sharing)
 
