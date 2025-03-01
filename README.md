@@ -23,3 +23,5 @@ To use the project, follow these steps:
     ```bash
     streamlit run app.py
     ```
+## Demo
+![Web Demo](source/DemoObjectDetectionv2.mp4)
