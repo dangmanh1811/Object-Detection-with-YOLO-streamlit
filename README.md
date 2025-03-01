@@ -23,3 +23,4 @@ To use the project, follow these steps:
     ```bash
     streamlit run app.py
     ```
+![image](https://github.com/user-attachments/assets/2380544d-ffba-486a-a2d3-faea433c5daa)
