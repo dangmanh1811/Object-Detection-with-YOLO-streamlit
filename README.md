@@ -23,6 +23,4 @@ To use the project, follow these steps:
     ```bash
     streamlit run app.py
     ```
-## Demo
-[Video Demo](https://drive.google.com/file/d/1IfDVvalIsrg3GnfN-2oLNxarJbhvk5N1/view?usp=sharing)
 
